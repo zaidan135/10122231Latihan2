@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">10122231Latihan2</string>
+    <string name="digiteam">DigiTeam</string>
+    <string name="digiteam2">Digital Together Everyone Achieve More</string>
+    <string name="digiteam3">Jabar Digital Service</string>
+    <string name="name">Zaidan Febriandi</string>
+    <string name="title">Mahasiswa Universitas Komputer Indonesia</string>
+    <string name="jamkerja1">Jam Kerja Bulan Ini</string>
+    <string name="jamkerja2">Jam Kerja Kamu Bulan Ini : 130.53 Jam</string>
+    <string name="jam">130.53 Jam</string>
+    <string name="batas">Batas Minimum Kerja 170 jam/bulan</string>
+    <string name="checkin">Checkin</string>
+    <string name="laporan">Laporan Kamu</string>
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+    <string name="buatlaporan">Buat Laporan</string>
+</resources>
